@@ -2,7 +2,8 @@
 
 A fully functional, modern web-based graphing calculator built with **React**, **TypeScript**, **Vite**, and **Material-UI**.
 
-![Graphing Calculator](website.png)
+<img width="1921" height="967" alt="Screenshot 2025-10-11 at 08 48 42" src="https://github.com/user-attachments/assets/6fc77659-19f9-44b5-adb6-0fe47b85ca77" />
+
 
 ## ✨ Features
 
